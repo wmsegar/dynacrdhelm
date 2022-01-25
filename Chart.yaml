@@ -1,0 +1,4 @@
+name: dynatrace-crds
+description: dynatrace CRDs
+version: {{VERSION}}
+appVersion: {{VERSION}}
